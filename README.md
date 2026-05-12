@@ -81,8 +81,6 @@
 │   ├── 01_bronze_streaming_ingest.py
 │   ├── 02_silver_cleaning.py
 │   └── 03_gold_aggregations.py
-├── setup/
-│   └── unity_catalog_setup.sql
 └── README.md
 ```
 
